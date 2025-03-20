@@ -47,3 +47,6 @@ function totalWages(totalWage, dailyWage) {
 
 console.log("UC8 - Emp Wage Map totalHrs: " +
             Array.from(empDailyWageMap.values()).reduce(totalWages, 0));
+
+
+            
